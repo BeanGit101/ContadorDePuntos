@@ -5,6 +5,7 @@
 - Instalar Python version 3.10.6
 ### Pasos para Utilizar el Programa:
 Descargar el archivo "Ejemplo.py" que se encuentra en la seccion de arriba de esta pagina.
+
 Primero instalaremos la version apropiada de Python para ultizar el programa. Abajo le proporcionamos el link para realizar la descarga desde la pagina oficial de Python. (Descargue el archivo que coresponda con su sistema operativo Windows/MacOS)
 
 https://www.python.org/downloads/release/python-3106/
@@ -23,6 +24,7 @@ Aqui esta el commando:
 <img width="580" height="167" alt="{C9F7049A-1AF3-4453-9017-A616A7EBEACF}" src="https://github.com/user-attachments/assets/82c70b48-a5ec-487b-99ee-39d11d867c84" />
 
 Al confirmar la instalacion de Python, siguente debemos crear un carpeta nueva para nuestro programa. La puede crear donde usted guste pero por simplicidad la puede crear un su escritorio. Al crear la carpeta, podemos dejar oprimido "Shift" y hacer click derecho en la carpeta y buscar por la opcion "Abrir con Powershell".
+
 Dentro de la ventana de Powershell vamos a ingresar el siguente commando y oprimir "Enter": 
 
     python -m venv venv
