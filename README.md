@@ -27,7 +27,7 @@ Al confirmar la instalacion de Python, continuamente debemos crear una carpeta n
 
 Nos introducira a una nueva ventana donde dentro del Powershell vamos a ingresar el siguente comando y oprimir "Enter": 
 
-    python -m venv venv
+    py -3.10 -m venv venv
 
 El comando habra creado varias carpetas y ocupamos posicionarnos en la carpeta correcta que permita activar nuestro programa.
 Ingresaremos el siguiente comando:
