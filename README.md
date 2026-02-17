@@ -25,7 +25,7 @@ Deberias de ver "Python 3.10.6" desplegado en la ventana, como en la siguente im
 
 Al confirmar la instalacion de Python, debemos crear una carpeta nueva para nuestro programa. Esta puede ser hecha directamente desde el explorador de archivos, o bien, para su conveniencia la puede crear desde el escritorio de su dispositivo. Al crear la carpeta, ingresamos y oprimimos "Shift" mientras se da un click derecho en la carpeta, le mostrara una pequeña serie de opciones, en donde buscara la opción mas parecida a: "Abrir con Powershell".
 
-Nos introducira a una nueva ventana donde dentro del Powershell vamos a ingresar el siguente comando y oprimir "Enter": 
+Nos llevara a una nueva ventana donde dentro del Powershell vamos a ingresar el siguente comando y oprimir "Enter": 
 
     py -3.10 -m venv venv
 
@@ -34,7 +34,7 @@ Ingresaremos el siguiente comando:
 
     cd venv
 
-Despues utilizaremos otro commando para entrar a otra carpeta:
+Despues utilizaremos otro comando para entrar a otra carpeta:
 
     cd Scripts
 
