@@ -23,7 +23,7 @@ Aqui esta el comando:
 Deberias de ver "Python 3.10.6" desplegado en la ventana, como en la siguente imagen.
 <img width="580" height="167" alt="{C9F7049A-1AF3-4453-9017-A616A7EBEACF}" src="https://github.com/user-attachments/assets/82c70b48-a5ec-487b-99ee-39d11d867c84" />
 
-Al confirmar la instalacion de Python, continuamente debemos crear una carpeta nueva para nuestro programa. Esta puede ser hecha directamente desde el explorador de archivos, o bien, para su conveniencia la puede crear desde el escritorio de su dispositivo. Al crear la carpeta, ingresamos a esta y dejamos oprimido "Shift" mientras da click derecho en la carpeta, le mostrara una pequeña serie de opciones, en donde buscara la opción mas parecida a: "Abrir con Powershell".
+Al confirmar la instalacion de Python, debemos crear una carpeta nueva para nuestro programa. Esta puede ser hecha directamente desde el explorador de archivos, o bien, para su conveniencia la puede crear desde el escritorio de su dispositivo. Al crear la carpeta, ingresamos y oprimimos "Shift" mientras se da un click derecho en la carpeta, le mostrara una pequeña serie de opciones, en donde buscara la opción mas parecida a: "Abrir con Powershell".
 
 Nos introducira a una nueva ventana donde dentro del Powershell vamos a ingresar el siguente comando y oprimir "Enter": 
 
